@@ -455,6 +455,6 @@ B：2,5,6,7,9
 C：2,4,6,10,13
 绘制每个算法的PR曲线。您是否会认为任何算法严格优于其他任何算法？为什么？
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+<script type="text/javascript" src="js/MathJax.js?config=default"></script>
 
 
